@@ -1,7 +1,6 @@
 ### Olá! Sou o Allan de Melo Heil 👋
 
-- 🔭 Hoje trabalho com desenvolvimento de software utilizando C#, WPF e SQL.
-- 🌱 Meu foco atual é aprender e aperfeiçoar minhas habilidades em ReactJS, NodeJS e Typescript, utilizando bancos de dados SQL e noSQL no curso de Desenvolvimento Web Full Stack da Driven Education
+- 🔭 Hoje trabalho com desenvolvimento de software utilizando C# e React.
 - 📫 Contato: allanheil1@gmail.com
 
  <div>
