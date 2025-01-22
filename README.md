@@ -1,6 +1,6 @@
 ### Olá! Sou o Allan de Melo Heil 👋
 
-- 🔭 Hoje trabalho com desenvolvimento de software utilizando C# e Javascript.
+- 🔭 Hoje trabalho com desenvolvimento de software utilizando Typescript (Node + React) e C# (.NET).
 - 📫 Contato: allanheil1@gmail.com
 
 <div style="display: inline_block"><br>
